@@ -4,9 +4,6 @@ A high-performance NLP pipeline built to extract meaningful keywords from **Mara
 
 ---
 
-## 🚀 Live Demo
-[Insert your Streamlit Cloud Link Here]
-
 ## 🧠 The Project Goal
 As a final-year AIML student, I developed this project to bridge the gap between theoretical Information Retrieval and practical, multilingual applications. Most standard libraries are optimized for English; this tool specifically handles the morphological complexities of Indic scripts.
 
@@ -47,3 +44,4 @@ As a final-year AIML student, I developed this project to bridge the gap between
 ## 👤 Author
 **Sahil Maskar** Final Year B.E. (AIML) | SIES GST  
 *Interested in Web Development & Machine Learning*
+
