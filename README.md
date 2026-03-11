@@ -20,8 +20,6 @@ As a final-year AIML student, I developed this project to bridge the gap between
 - **NLP:** Indic-NLP-Library, NLTK
 - **Math/Data:** NumPy, Pandas, Math API
 - **UI/UX:** Streamlit
-- **Deployment:** GitHub & Streamlit Cloud
-
 ---
 
 ## 📊 How It Works (The Logic)
@@ -30,18 +28,8 @@ As a final-year AIML student, I developed this project to bridge the gap between
 3. **IDF Calculation:** Weights the word's uniqueness across the entire corpus.
 4. **Filtering:** Removes common functional words (stop-words) to reveal the "thematic" core of the text.
 
-
-
----
-
-## 📈 Future Scope
-- **Stemming/Lemmatization:** Integrating a root-word extractor for Marathi/Kannada to group different word forms (e.g., "विकासाचा" and "विकास").
-- **API Support:** Converting the logic into a FastAPI endpoint for integration into larger ERP systems (like SAP ABAP environments).
-- **Word Embeddings:** Moving from statistical TF-IDF to semantic models like **IndicBERT**.
-
----
-
 ## 👤 Author
 **Sahil Maskar** Final Year B.E. (AIML) | SIES GST  
 *Interested in Web Development & Machine Learning*
+
 
